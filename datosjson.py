@@ -8,4 +8,9 @@ expira = ourjson.get("expires_in", "No se encontró la expiración")
 
 print(f"Token: {token}")
 print(f"Tiempo restante antes de expiración: {expira} segundos")
+<<<<<<< HEAD
  
+=======
+
+
+>>>>>>> Evaluación N°1 DRY7122
